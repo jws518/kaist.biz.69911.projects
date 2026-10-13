@@ -68,6 +68,7 @@ Class members: see [How to add your row](#how-to-add-your-row) at the bottom of 
 
 | Name | Personal page |
 |------|---------------|
+|신정원|[jws518.github.io](https://jws518.github.io/)|
 
 ## Team 12
 
